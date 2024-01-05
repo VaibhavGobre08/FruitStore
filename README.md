@@ -16,4 +16,4 @@ This project is a static website for a food store, allowing users to browse vari
 To get started with this project, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/food-store-website.git
+git clone https://github.com/VaibhavGobre08/FruitStore.git
