@@ -15,5 +15,9 @@ This project is a static website for a food store, allowing users to browse vari
 ## Getting Started
 To get started with this project, simply clone the repository to your local machine:
 
+## Screenshot
+![food store](https://github.com/VaibhavGobre08/FruitStore/assets/95280777/e455fb2a-d221-4e90-a4e4-bbe34f5a46ab)
+
+
 ```bash
 git clone https://github.com/VaibhavGobre08/FruitStore.git
