@@ -1,5 +1,3 @@
-# FruitStore
-
 # Food Store Website
 
 Welcome to the Food Store Website project! This web application is designed to showcase a simple food store, implemented with HTML, CSS, and JavaScript.
